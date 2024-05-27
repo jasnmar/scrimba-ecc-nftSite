@@ -1,4 +1,4 @@
-# Buildin and NFT Site
+# Building and NFT Site
 ## Module 3, Essential CSS Concepts
 from the Scrimba.com Frontend Career Path
 
